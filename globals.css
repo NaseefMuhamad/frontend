@@ -1,0 +1,59 @@
+/* CyberSecurityPage.module.css */
+
+/* Container styles */
+
+.container {
+  font-family: Arial, sans-serif;
+  background-color: #121212;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+/* Header styles */
+.header {
+  background: #0d47a1;
+  padding: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.clock {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+/* Card styles */
+.card {
+  background: #1e1e1e;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2);
+}
+
+/* Button styles */
+.button {
+  background: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  margin: 5px;
+  border-radius: 5px;
+  transition: background 0.3s ease-in-out;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+/* Footer styles */
+.footer {
+  margin-top: 30px;
+  padding: 10px;
+  background-color: #0d47a1;
+}
